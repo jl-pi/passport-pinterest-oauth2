@@ -1,11 +1,11 @@
 {
   "dependencies": {
     "lodash": "^4.17.21",
-    "passport-oauth2": "^1.8.0",
+    "passport-oauth": "^1.0.0",
     "pkginfo": "^0.4.1"
   },
   "name": "passport-pinterest-oauth2",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "passport-pinterest-oauth2 v5 strategy",
   "main": "./lib/index.js",
   "directories": {
