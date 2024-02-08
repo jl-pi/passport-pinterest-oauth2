@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "passport-oauth2": "^1.8.0",
+    "pkginfo": "^0.4.1"
+  },
+  "name": "passport-pinterest-oauth2",
+  "version": "0.0.1",
+  "description": "passport-pinterest-oauth2 v5 strategy",
+  "main": "./lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "passport",
+    "pinterest",
+    "v5",
+    "oauth2"
+  ],
+  "author": "Junhao LI",
+  "license": "ISC"
+}
