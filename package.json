@@ -5,7 +5,7 @@
     "pkginfo": "^0.4.1"
   },
   "name": "passport-pinterest-oauth2",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "passport-pinterest-oauth2 v5 strategy",
   "main": "./lib/index.js",
   "directories": {
